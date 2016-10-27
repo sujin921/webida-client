@@ -1,3 +1,6 @@
+[![DeepScan Grade](http://dev.deepscan.io:5012/api/projects/313/branches/239/badge/grade.svg)](http://dev.deepscan.io:5001/lite/#view=project&pid=313&bid=239)
+
+
 # webida-client
 
 **Webida** is an web-based Rich Client Platform. Based on plugin-system,
